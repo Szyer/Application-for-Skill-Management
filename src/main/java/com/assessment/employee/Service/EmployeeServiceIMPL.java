@@ -57,9 +57,5 @@ public class EmployeeServiceIMPL implements EmployeeService {
         return employeeDTOList;
     }
 
-    @Override
-    public Optional<Employee> findByID(Long id) {
-        return Optional.empty();
-    }
 }
 

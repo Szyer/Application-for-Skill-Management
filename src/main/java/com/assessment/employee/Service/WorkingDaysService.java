@@ -1,2 +1,4 @@
-package com.assessment.employee.Service;public interface WorkingDaysService {
+package com.assessment.employee.Service;
+
+public interface WorkingDaysService {
 }

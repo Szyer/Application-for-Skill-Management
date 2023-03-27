@@ -1,2 +1,4 @@
-package com.assessment.employee.Service;public interface CertificateService {
+package com.assessment.employee.Service;
+
+public interface CertificateService {
 }
